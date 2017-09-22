@@ -6,8 +6,8 @@
         /* 0X4 */ public float Unknown4;
         /* 0X8 */ public float Unknown8;
         /* 0XC */ public float UnknownC;
-        /* 0X10 */ public int UnknownInt10;
-        /* 0X14 */ public float Unknown14;
+        /* 0X10 */ public float Unknown10;
+        /* 0X14 */ public int UnknownInt14;
         /* 0X18 */ public float Unknown18;
         /* 0X1C */ public float Unknown1C;
         /* 0X20 */ public float Unknown20;
@@ -20,8 +20,8 @@
         /* 0X3C */ public float Unknown3C;
         /* 0X40 */ public float Unknown40;
         /* 0X44 */ public float Unknown44;
-        /* 0X48 */ public int UnknownInt48;         // just a WORD
-        /* 0X4C */ public float Unknown4C;
+        /* 0X48 */ public float Unknown48;
+        /* 0X4C */ public int UnknownInt4C;         // just a WORD
         /* 0X50 */ public float Unknown50;
         /* 0X54 */ public float Unknown54;
         /* 0X58 */ public float Unknown58;
@@ -289,8 +289,8 @@
         /* 0X8C4 */ public float Unknown8C4;
         /* 0X8C8 */ public float Unknown8C8;
         /* 0X8CC */ public float Unknown8CC;
-        /* 0X8D0 */ public int UnknownInt8D0;
-        /* 0X8D4 */ public float Unknown8D4;
+        /* 0X8D0 */ public float Unknown8D0;
+        /* 0X8D4 */ public int UnknownInt8D4;
         /* 0X8D8 */ public float Unknown8D8;
         /* 0X8DC */ public float Unknown8DC;
         /* 0X8E0 */ public float Unknown8E0;
@@ -316,8 +316,8 @@
         /* 0X930 */ public float Unknown930;
         /* 0X934 */ public float Unknown934;
         /* 0X938 */ public float Unknown938;
-        /* 0X93C */ public int UnknownInt93C;
-        /* 0X940 */ public float Unknown940;
+        /* 0X93C */ public float Unknown93C;
+        /* 0X940 */ public int UnknownInt940;
         /* 0X944 */ public float Unknown944;
         /* 0X948 */ public float Unknown948;
         /* 0X94C */ public float Unknown94C;
@@ -330,8 +330,8 @@
         /* 0X968 */ public float Unknown968;
         /* 0X96C */ public float Unknown96C;
         /* 0X970 */ public float Unknown970;
-        /* 0X974 */ public int UnknownInt974;
-        /* 0X978 */ public float Unknown978;
+        /* 0X974 */ public float Unknown974;
+        /* 0X978 */ public int UnknownInt978;
         /* 0X97C */ public float Unknown97C;
         /* 0X980 */ public float Unknown980;
         /* 0X984 */ public float Unknown984;
